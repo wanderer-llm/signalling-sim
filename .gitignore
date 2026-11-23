@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+target/
+/bin/
+/build/
+/dist/
+*.o
+*.out
+*.exe
+.pytest_cache/
